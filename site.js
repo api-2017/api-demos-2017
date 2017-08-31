@@ -9,6 +9,8 @@ function howManyPets(user) {
 var user = {
   name: "Karl",
   age: 39,
-  pets: ["Hank","Stewie"]
-  // TODO: programmatically access pets.length
+  pets: ["Hank","Stewie"],
+  get num_pets() {
+    return this.pets.length
+  }
 }
