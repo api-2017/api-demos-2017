@@ -1,29 +1,27 @@
 {
-  "roster": {
-    "class": {
-      "identifier": "COM 330",
-      "name": "Application Programming Interfaces",
-      "instructor": "Karl Stolley"
+  "class": {
+    "identifier": "COM 330",
+    "name": "Application Programming Interfaces",
+    "instructor": "Karl Stolley"
+  },
+  "students": [
+    {
+      "first_name": "Bob",
+      "last_name": "Adams",
+      "id": "A9991235",
+      "email": "badams@fake.example.com"
     },
-    "students": [
-      {
-        "first_name": "Bob",
-        "last_name": "Adams",
-        "id": "A9991235",
-        "email": "badams@fake.example.com"
-      },
-      {
-        "first_name": "Pat",
-        "last_name": "Johnson",
-        "id": "A9991233",
-        "email": "pjohnso@fake.example.com"
-      },
-      {
-        "first_name": "Katie",
-        "last_name": "Smith",
-        "id": "A9991234",
-        "email": "ksmith@fake.example.com"
-      }
-    ]
-  }
+    {
+      "first_name": "Pat",
+      "last_name": "Johnson",
+      "id": "A9991233",
+      "email": "pjohnso@fake.example.com"
+    },
+    {
+      "first_name": "Katie",
+      "last_name": "Smith",
+      "id": "A9991234",
+      "email": "ksmith@fake.example.com"
+    }
+  ]
 }
