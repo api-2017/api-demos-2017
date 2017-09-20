@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roster>
+  <class>
+    <identifier>COM 333</identifier>
+    <name>Application Programming Interfaces</name>
+    <instructor>Karl Stolley</instructor>
+  </class>
+  <students>
+    <student>
+      <first_name>Bob</first_name>
+      <last_name>Adams</last_name>
+      <id>A9991235</id>
+      <email>badams@fake.example.com</email>
+    </student>
+    <student>
+      <first_name>Pat</first_name>
+      <last_name>Johnson</last_name>
+      <id>A9991233</id>
+      <email>pjohnso@fake.example.com</email>
+    </student>
+    <student>
+      <first_name>Katie</first_name>
+      <last_name>Smith</last_name>
+      <id>A9991234</id>
+      <email>ksmith@fake.example.com</email>
+    </student>
+  </students>
+</roster>
