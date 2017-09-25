@@ -1,0 +1,12 @@
+
+
+img {
+  display: block;
+  float: left;
+  width: 2em;
+  margin-right: 1em;
+}
+#results li {
+  clear: both;
+  padding-bottom: 1em;
+}
